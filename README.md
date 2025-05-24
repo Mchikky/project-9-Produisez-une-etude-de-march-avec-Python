@@ -21,22 +21,20 @@ Market research for exportation of poultry
 <img width="1316" alt="aa" src="https://github.com/user-attachments/assets/85cdf90a-0ac3-432a-87b4-4d3796e99088" />
 
 ## Exploratory Data Analysis (EDA)
-- Summarized the data into total sales by each categories, total profit and the best selling category.
-- Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
-  
-<img width="1316" alt="aa" src="https://github.com/user-attachments/assets/4fca33b9-33d1-4a39-a59b-22900bfa86fd" />
+- Looked at the distribution of data.
 
 <img width="1032" alt="aap" src="https://github.com/user-attachments/assets/47a108a5-0217-473b-a8c2-e56db0021ba2" />
+
+- Checked for outliers, normality, correlation coefficient, and caluclated zscores.
 
 <img width="737" alt="aaaap" src="https://github.com/user-attachments/assets/57af2dd1-8423-4bf2-a724-1ab436ce440a" />
 
 <img width="1304" alt="aaaaap" src="https://github.com/user-attachments/assets/27341d8d-50b0-42a2-bf29-5160dc53f4df" />
 
 <img width="889" alt="aaaaaaap" src="https://github.com/user-attachments/assets/25fe8f4e-e6c2-461e-b8b5-562cbd0a1083" />
- 
-## Key Performance Indicators (KPIs)
 
 ## Generation of graphics and visuals
+
 ## Insights and Recommendations
 ## Data Preprocessing
 
