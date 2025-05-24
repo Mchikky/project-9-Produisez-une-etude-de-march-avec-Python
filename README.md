@@ -33,11 +33,12 @@ Market research for exportation of poultry
 
 <img width="889" alt="aaaaaaap" src="https://github.com/user-attachments/assets/25fe8f4e-e6c2-461e-b8b5-562cbd0a1083" />
 
-## Data Preprocessing
+## Data Analysis
 ### Propose an initial analysis of country groupings that could be targeted for exporting chickens.
 - Test hierarchical agglomerative clustering, with a dendrogram as visualization.
-  
-<img width="1129" alt="ac" src="https://github.com/user-attachments/assets/b397f159-ea7a-420b-85a1-5790dcdbc377" />
+<img width="1090" alt="aaa1" src="https://github.com/user-attachments/assets/56829e66-5018-481a-9d03-0ee48044e390" />
+
+<img width="994" alt="aaa111" src="https://github.com/user-attachments/assets/0615cafd-9150-44a3-9bdf-1b93d08bb256" />
 
 <img width="1312" alt="aac" src="https://github.com/user-attachments/assets/0f906514-05d0-4ecb-a563-897a3d915d28" />
 
