@@ -33,11 +33,32 @@ Market research for exportation of poultry
 
 <img width="889" alt="aaaaaaap" src="https://github.com/user-attachments/assets/25fe8f4e-e6c2-461e-b8b5-562cbd0a1083" />
 
-## Generation of graphics and visuals
+## Data Preprocessing
+1. Propose an initial analysis of country groupings that could be targeted for exporting chickens.
+- Test hierarchical agglomerative clustering, with a dendrogram as visualization.
+  
+<img width="1129" alt="ac" src="https://github.com/user-attachments/assets/b397f159-ea7a-420b-85a1-5790dcdbc377" />
+
+<img width="1312" alt="aac" src="https://github.com/user-attachments/assets/0f906514-05d0-4ecb-a563-897a3d915d28" />
+
+<img width="1228" alt="aaac" src="https://github.com/user-attachments/assets/01586aed-f81b-417e-862e-4d04f76092be" />
+
+- Use the K-Means method to refine the analysis and compare the results of the two clustering methods; analyze the centroids of the clusters.
+
+<img width="767" alt="aaaac" src="https://github.com/user-attachments/assets/05ad848b-1d14-4ef8-9c18-bac5d1fde19d" />
+
+<img width="955" alt="aaaaac" src="https://github.com/user-attachments/assets/558c3ed0-e3f2-4fd4-b92d-48f0b49c9e9c" />
+
+<img width="1312" alt="aaaaaaac" src="https://github.com/user-attachments/assets/0cbf5404-6180-4873-8e65-94f762b57bdd" />
+
+<img width="920" alt="aaaaaac" src="https://github.com/user-attachments/assets/33384611-d2e3-418f-a376-978dd9f6f7ae" />
+
+2. Deepen the market study.
+- Perform a PCA (Principal Component Analysis) to visualize the analysis results.
+
+- Understand the groups, the relationships between the variables, and the relationships between the individuals.
 
 ## Insights and Recommendations
-## Data Preprocessing
-
 
 
 
