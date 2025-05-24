@@ -63,6 +63,7 @@ Market research for exportation of poultry
 <img width="1312" alt="aaaaaaac" src="https://github.com/user-attachments/assets/e0144593-e1c2-4ab5-8d4d-08ef24cec356" />
 <img width="920" alt="aaaaaac" src="https://github.com/user-attachments/assets/9cafb8ef-5023-48da-953f-2d8381e91479" />
 
+
 - Understand the groups, the relationships between the variables, and the relationships between the individuals.
 
 <img width="785" alt="aaa" src="https://github.com/user-attachments/assets/68fff54a-6d6a-4947-b74f-daab196bf57a" />
