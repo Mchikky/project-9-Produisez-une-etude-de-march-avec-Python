@@ -72,7 +72,7 @@ Understanding the Links Between Variables:
 The x-axis represents the first principal component (F1), while the y-axis represents F2. 
 The principal components can be viewed as "new variables" that synthesize existing variables.
 
-Principal Component 1 (F1):
+#### Principal Component 1 (F1):
 F1 explains a large portion of the total variance in the dataset, approximately 35.3%.
 The initial variables such as domestic availability, losses, and population are positively correlated with F1, with domestic availability being the most strongly correlated.
 - Domestic availability indicates the food availability of 'poultry meat' within the country. This variable is the most strongly correlated with F1 and contributes positively to F1.
@@ -81,7 +81,7 @@ The initial variables such as domestic availability, losses, and population are 
 Population is a set of the habitats of a country. It is positively correlated with F1.
 What is interesting in the interpretation of the F1 axis is that all these variables are united by the notion of the availability of 'poultry meat' within a country.
 
-Principal Component 2 (F2):
+#### Principal Component 2 (F2):
 F2 also explains a significant portion of the total variance in the dataset, roughly 21%.
 The initial variables such as import quantity, export quantity, stock variations, and protein availability in quantity ( g/person/day ) are negatively correlated with F2, with the last variable being the most strongly correlated.
 - Import quantity is the amount of 'poultry meat' imported by a country. This variable is negatively correlated with F2.
