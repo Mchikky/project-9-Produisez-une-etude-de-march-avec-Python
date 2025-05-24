@@ -66,9 +66,28 @@ Market research for exportation of poultry
 
 <img width="1043" alt="aaaa11" src="https://github.com/user-attachments/assets/d128e629-2c66-4139-aac6-4eeea5be01a9" />
 
-## Insights and Recommendations
+## Insights 
+Understanding the links between variables and Principal Component Analysis (PCA):
+Understanding the Links Between Variables:
+The x-axis represents the first principal component (F1), while the y-axis represents F2. The principal components can be viewed as "new variables" that synthesize existing variables.
+Principal Component 1 (F1):
+F1 explains a large portion of the total variance in the dataset, approximately 35.3%.
+The initial variables such as domestic availability, losses, and population are positively correlated with F1, with domestic availability being the most strongly correlated.
+Domestic availability indicates the food availability of 'poultry meat' within the country. This variable is the most strongly correlated with F1 and contributes positively to F1.
+Losses represent food waste coming from 'poultry meat'. It is positively correlated with F1.
+Population is a set of the habitats of a country. It is positively correlated with F1.
+What is interesting in the interpretation of the F1 axis is that all these variables are united by the notion of the availability of 'poultry meat' within a country.
+Principal Component 2 (F2):
+F2 also explains a significant portion of the total variance in the dataset, roughly 21%.
+The initial variables such as import quantity, export quantity, stock variations, and protein availability in quantity ( g/person/day ) are negatively correlated with F2, with the last variable being the most strongly correlated.
+Import quantity is the amount of 'poultry meat' imported by a country. This variable is negatively correlated with F2.
+Export quantity is the amount of 'poultry meat' exported by a country. It is negatively correlated with F2.
+Stock variations measure the difference between domestic availability, production, and imports, adding the exports. This variable is negatively correlated with F2.
+Protein availability in quantity ( g/person/day ) measures the protein availability in grams per person per day from 'poultry meat'. It is negatively correlated with F2 and is also the most strongly correlated.
+What is interesting in the interpretation of the F2 axis is that all these variables are united by the notion of the quality of 'poultry meat' within a country.
+In summarizing variables into new dimensions F1 and F2, sometimes even F3 and F4, the principal components can be viewed as new variables and new columns of our data table.
 
-
+## Recommendations
 
 # Project 9 in French
 ## Mission:
