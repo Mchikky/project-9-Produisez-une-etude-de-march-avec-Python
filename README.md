@@ -67,7 +67,7 @@ Market research for exportation of poultry
 <img width="1043" alt="aaaa11" src="https://github.com/user-attachments/assets/d128e629-2c66-4139-aac6-4eeea5be01a9" />
 
 ## Insights 
-Understanding the links between variables and Principal Component Analysis (PCA):
+### Understanding the links between variables and Principal Component Analysis (PCA):
 Understanding the Links Between Variables:
 The x-axis represents the first principal component (F1), while the y-axis represents F2. The principal components can be viewed as "new variables" that synthesize existing variables.
 Principal Component 1 (F1):
@@ -86,6 +86,14 @@ Stock variations measure the difference between domestic availability, productio
 Protein availability in quantity ( g/person/day ) measures the protein availability in grams per person per day from 'poultry meat'. It is negatively correlated with F2 and is also the most strongly correlated.
 What is interesting in the interpretation of the F2 axis is that all these variables are united by the notion of the quality of 'poultry meat' within a country.
 In summarizing variables into new dimensions F1 and F2, sometimes even F3 and F4, the principal components can be viewed as new variables and new columns of our data table.
+
+### Understanding the Links Between Individuals
+To understand what differentiates them and what makes them similar, this graph must be interpreted in parallel with the circle of correlations.
+What differentiates individuals with a large x-coordinate from those with a small x-coordinate?
+Countries with large x-coordinates, such as Indonesia, are very populated with a lot of domestic availability and many losses. In contrast, countries with small x-coordinates are less populated, have fewer losses, and less domestic availability, like Vanuatu and Azerbaijan.
+What differentiates two individuals that have roughly the same x-coordinate, but very different y-coordinates?
+Countries with roughly the same x-coordinate but very different y-coordinates have a lot of protein availability in quantity, like France and the Netherlands.
+In summary, it is difficult to account for the complexity of the reality of individuals because distances between individuals are considered. Therefore, two individuals that are close in space are similar, and if they are far apart, they are different.
 
 ## Recommendations
 
