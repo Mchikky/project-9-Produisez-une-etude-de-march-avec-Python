@@ -70,14 +70,14 @@ Market research for exportation of poultry
 ### Understanding the links between variables and Principal Component Analysis (PCA):
 Understanding the Links Between Variables:
 The x-axis represents the first principal component (F1), while the y-axis represents F2. The principal components can be viewed as "new variables" that synthesize existing variables.
-Principal Component 1 (F1):
+- Principal Component 1 (F1):
 F1 explains a large portion of the total variance in the dataset, approximately 35.3%.
 The initial variables such as domestic availability, losses, and population are positively correlated with F1, with domestic availability being the most strongly correlated.
 Domestic availability indicates the food availability of 'poultry meat' within the country. This variable is the most strongly correlated with F1 and contributes positively to F1.
 Losses represent food waste coming from 'poultry meat'. It is positively correlated with F1.
 Population is a set of the habitats of a country. It is positively correlated with F1.
 What is interesting in the interpretation of the F1 axis is that all these variables are united by the notion of the availability of 'poultry meat' within a country.
-Principal Component 2 (F2):
+- Principal Component 2 (F2):
 F2 also explains a significant portion of the total variance in the dataset, roughly 21%.
 The initial variables such as import quantity, export quantity, stock variations, and protein availability in quantity ( g/person/day ) are negatively correlated with F2, with the last variable being the most strongly correlated.
 Import quantity is the amount of 'poultry meat' imported by a country. This variable is negatively correlated with F2.
@@ -90,19 +90,20 @@ In summarizing variables into new dimensions F1 and F2, sometimes even F3 and F4
 ### Understanding the Links Between Individuals
 To understand what differentiates them and what makes them similar, this graph must be interpreted in parallel with the circle of correlations.
 What differentiates individuals with a large x-coordinate from those with a small x-coordinate?
-Countries with large x-coordinates, such as Indonesia, are very populated with a lot of domestic availability and many losses. In contrast, countries with small x-coordinates are less populated, have fewer losses, and less domestic availability, like Vanuatu and Azerbaijan.
-What differentiates two individuals that have roughly the same x-coordinate, but very different y-coordinates?
+- Countries with large x-coordinates, such as Indonesia, are very populated with a lot of domestic availability and many losses. In contrast, countries with small x-coordinates are less populated, have fewer losses, and less domestic availability, like Vanuatu and Azerbaijan.
+- What differentiates two individuals that have roughly the same x-coordinate, but very different y-coordinates?
 Countries with roughly the same x-coordinate but very different y-coordinates have a lot of protein availability in quantity, like France and the Netherlands.
 In summary, it is difficult to account for the complexity of the reality of individuals because distances between individuals are considered. Therefore, two individuals that are close in space are similar, and if they are far apart, they are different.
 
 ## Recommendations
 Cluster 1 ('South Africa', 'Argentina', 'Colombia', 'Spain', 'Indonesia', 'Malaysia', 'Myanmar', 'Pakistan', 'Philippines', 'Vietnam') is selected based on the following criteria:
-Availability - Countries with high domestic availability, population, and losses.
-Quality - Countries with high protein availability in quantity but a smaller population.
-Economy - Countries with resources and purchasing power to buy chickens.
-Politics - Countries with government stability.
-Geographic Proximity - Countries located in Europe.
+- Availability - Countries with high domestic availability, population, and losses.
+- Quality - Countries with high protein availability in quantity but a smaller population.
+- Economy - Countries with resources and purchasing power to buy chickens.
+- Politics - Countries with government stability.
+- Geographic Proximity - Countries located in Europe.
 To refine the analysis, these criteria will be honed by exchanging information with experts.
+
 
 # Project 9 in French
 ## Mission:
