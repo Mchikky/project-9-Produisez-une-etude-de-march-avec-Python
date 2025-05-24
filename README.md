@@ -34,7 +34,7 @@ Market research for exportation of poultry
 <img width="889" alt="aaaaaaap" src="https://github.com/user-attachments/assets/25fe8f4e-e6c2-461e-b8b5-562cbd0a1083" />
 
 ## Data Preprocessing
-1. Propose an initial analysis of country groupings that could be targeted for exporting chickens.
+### Propose an initial analysis of country groupings that could be targeted for exporting chickens.
 - Test hierarchical agglomerative clustering, with a dendrogram as visualization.
   
 <img width="1129" alt="ac" src="https://github.com/user-attachments/assets/b397f159-ea7a-420b-85a1-5790dcdbc377" />
@@ -53,7 +53,7 @@ Market research for exportation of poultry
 
 <img width="920" alt="aaaaaac" src="https://github.com/user-attachments/assets/33384611-d2e3-418f-a376-978dd9f6f7ae" />
 
-2. Deepen the market study.
+### Deepen the market study.
 - Perform a PCA (Principal Component Analysis) to visualize the analysis results.
   
 <img width="785" alt="aaa" src="https://github.com/user-attachments/assets/68fff54a-6d6a-4947-b74f-daab196bf57a" />
