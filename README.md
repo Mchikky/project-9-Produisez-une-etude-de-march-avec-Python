@@ -66,7 +66,7 @@ Market research for exportation of poultry
 
 <img width="1043" alt="aaaa11" src="https://github.com/user-attachments/assets/d128e629-2c66-4139-aac6-4eeea5be01a9" />
 
-## Insights 
+## Insights and Results
 ### Understanding the links between variables and Principal Component Analysis (PCA):
 Understanding the Links Between Variables:
 The x-axis represents the first principal component (F1), while the y-axis represents F2. The principal components can be viewed as "new variables" that synthesize existing variables.
@@ -96,6 +96,13 @@ Countries with roughly the same x-coordinate but very different y-coordinates ha
 In summary, it is difficult to account for the complexity of the reality of individuals because distances between individuals are considered. Therefore, two individuals that are close in space are similar, and if they are far apart, they are different.
 
 ## Recommendations
+Cluster 1 ('South Africa', 'Argentina', 'Colombia', 'Spain', 'Indonesia', 'Malaysia', 'Myanmar', 'Pakistan', 'Philippines', 'Vietnam') is selected based on the following criteria:
+Availability - Countries with high domestic availability, population, and losses.
+Quality - Countries with high protein availability in quantity but a smaller population.
+Economy - Countries with resources and purchasing power to buy chickens.
+Politics - Countries with government stability.
+Geographic Proximity - Countries located in Europe.
+To refine the analysis, these criteria will be honed by exchanging information with experts.
 
 # Project 9 in French
 ## Mission:
