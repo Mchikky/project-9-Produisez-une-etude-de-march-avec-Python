@@ -1,5 +1,5 @@
 # Project 9: Conduct a market research study using Python
-You work at La poule qui chante (The Singing Hen), a French agri-food company. It wishes to expand internationally; no particular country or continent has been chosen yet. All countries are conceivable.
+You work at "La poule qui chante" (The Singing Hen), a French agri-food company. It wishes to expand internationally; no particular country or continent has been chosen yet. All countries are conceivable.
 
 ## Objectives:
 Market research for exportation of poultry
