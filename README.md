@@ -112,6 +112,9 @@ Cluster 1 ('South Africa', 'Argentina', 'Colombia', 'Spain', 'Indonesia', 'Malay
 To refine the analysis, these criteria will be honed by exchanging information with experts.
 
 
+
+
+
 # Project 9 in French
 ## Mission:
 1. Proposer une première analyse des groupements de pays que l’on peut cibler pour exporter des poulets :
